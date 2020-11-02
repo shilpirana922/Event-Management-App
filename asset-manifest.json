@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/Event-Management-App/static/css/main.603a0310.chunk.css",
+    "main.js": "/Event-Management-App/static/js/main.1f6d0f08.chunk.js",
+    "main.js.map": "/Event-Management-App/static/js/main.1f6d0f08.chunk.js.map",
+    "runtime-main.js": "/Event-Management-App/static/js/runtime-main.eabe684f.js",
+    "runtime-main.js.map": "/Event-Management-App/static/js/runtime-main.eabe684f.js.map",
+    "static/css/2.6bde65ae.chunk.css": "/Event-Management-App/static/css/2.6bde65ae.chunk.css",
+    "static/js/2.babacbf4.chunk.js": "/Event-Management-App/static/js/2.babacbf4.chunk.js",
+    "static/js/2.babacbf4.chunk.js.map": "/Event-Management-App/static/js/2.babacbf4.chunk.js.map",
+    "index.html": "/Event-Management-App/index.html",
+    "precache-manifest.fa59dd6875e6742cca4de8682aa71c5f.js": "/Event-Management-App/precache-manifest.fa59dd6875e6742cca4de8682aa71c5f.js",
+    "service-worker.js": "/Event-Management-App/service-worker.js",
+    "static/css/2.6bde65ae.chunk.css.map": "/Event-Management-App/static/css/2.6bde65ae.chunk.css.map",
+    "static/css/main.603a0310.chunk.css.map": "/Event-Management-App/static/css/main.603a0310.chunk.css.map",
+    "static/js/2.babacbf4.chunk.js.LICENSE.txt": "/Event-Management-App/static/js/2.babacbf4.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.eabe684f.js",
+    "static/css/2.6bde65ae.chunk.css",
+    "static/js/2.babacbf4.chunk.js",
+    "static/css/main.603a0310.chunk.css",
+    "static/js/main.1f6d0f08.chunk.js"
+  ]
+}
